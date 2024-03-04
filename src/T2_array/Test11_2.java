@@ -23,6 +23,6 @@ public class Test11_2 {
 			}
 			System.out.println();
 		}
-		
+		sc.close();
 	}
 }

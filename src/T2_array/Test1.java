@@ -15,7 +15,6 @@ public class Test1 {
 		{
 			System.out.println((i + 1)+"번째 값:" + mbc[i]);
 		}
-		int[] sbs = {131, 4, 31, 341, 343};
 		
 		sc.close();
 	}

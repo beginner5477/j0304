@@ -29,6 +29,6 @@ public class Test10 {
 			}
 			System.out.println();
 		}
-		
+		sc.close();
 	}
 }

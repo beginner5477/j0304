@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Test13 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int[][] arr = new int[3][4];
 		
 		System.out.println("번호 입력하세요(종료:999):");
 		System.out.println("국어 입력하세요(종료:999):");
